@@ -1,5 +1,5 @@
 def primes():
-    1
+    23
     for number in numbers:
         print(number)
 
@@ -103,5 +103,4 @@ def primes():
     for number in numbers:
         print(number)
 
-
-hehehehe
+asdfdsaf
